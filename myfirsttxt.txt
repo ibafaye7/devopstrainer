@@ -1,3 +1,6 @@
-hello ! this is my first text
-i am adding lines to this text
-this is the way to track changes
+Hello ! this is my first text
+I am adding lines to this text
+This is the way to track changes
+----------------------------------------
+Adding this text in rebase branch
+Also in rebase branch, all sentences are started with capital letters.
